@@ -1,0 +1,26 @@
+.background-image {
+
+}
+
+#title{
+  background-color: rgba(255, 123, 0, 0.3);
+  font-size: 50px;
+}
+
+body {
+  font-family:'Times New Roman', Times, serif
+}
+
+h1 {
+  color: green;
+  font-weight: 900;
+}
+
+ul {
+  font-size: 20px;
+}
+
+button {
+  background-color: greenyellow;
+  font-size: 20px;
+}

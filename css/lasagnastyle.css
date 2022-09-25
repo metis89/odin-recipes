@@ -1,0 +1,15 @@
+* {
+  color: purple;
+}
+
+h1 {
+  color: red;
+}
+
+li {
+  background-color: hsl(56, 59%, 70%)
+}
+
+ol {
+  background-color: rgb(185, 238, 220);
+}
